@@ -1,0 +1,26 @@
+h1,h3{
+	text-align: center;
+}
+label{
+	width: 100px;
+	float: left;
+}
+body{
+	width: 70%;
+	margin: auto; 
+}
+#btninput{
+	width: 15%;
+	text-align: center;
+	border: 1px solid black;
+	font-weight: bold;
+	cursor: pointer;
+	border-radius: 10%;
+	padding: 1%;
+	background-color: black;
+	color: white;
+}
+#btninput:hover{
+	background-color: white;
+	color: black;
+}
